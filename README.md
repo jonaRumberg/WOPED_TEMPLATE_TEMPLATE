@@ -20,4 +20,4 @@ Please have a look at the [contributing guidelines](.github/CONTRIBUTING.md) bef
 
 # License
 
-Distributed under the LGPL-3.0 license License. See [LICENSE](.github/LICENSE.md) for more information.
+Distributed under *some license*. See [LICENSE](.github/LICENSE.md) for more information.
