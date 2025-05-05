@@ -17,7 +17,7 @@ Before starting any development work, create a new feature branch from the `main
 
 ## Commit to the Branch
 
-### Commit Naming Convention (Moritz pls. revise)
+### Commit Naming Convention (Moritz pls. adapt this chapter)
 
 All commits should follow this convention to maintain clarity and traceability:
 
@@ -34,12 +34,12 @@ Use the following types:
 - `fix` – A bug fix  
 ... 
 
-### Commit Hooks (Moritz pls. revise)
+### Commit Hooks (Moritz pls. adapt this chapter)
 
 To enforce consistency and code quality, we use Git hooks.
 
 **Hooks in use:**
-- `pre-commit`: Runs linting and tests before allowing a commit.  
+- `pre-commit`: Runs linting and formating before allowing a commit.  
 - `commit-msg`: Verifies that the commit message adheres to our naming convention.  
 
 To set up hooks locally, run:
