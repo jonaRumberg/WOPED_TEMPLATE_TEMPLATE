@@ -1,6 +1,6 @@
 ## Description
 
-Please describe the changes you made.
+_Please describe the changes you made._
 
 ## Checklist
 
@@ -12,4 +12,4 @@ Please describe the changes you made.
 
 ## Additional Notes
 
-Is there anything the reviewers should pay attention to?
+_Is there anything the reviewers should pay attention to?_
