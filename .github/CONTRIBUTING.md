@@ -1,7 +1,7 @@
 
 # Contributing Guidelines
 
-Welcome to our development project! To ensure a smooth and efficient workflow for everyone involved, we follow a structured development process. Please adhere to the following guidelines when contributing.
+Welcome to our development project for WoPeD! To ensure a smooth and efficient workflow for everyone involved, we follow a structured development process. Please adhere to the following guidelines when contributing.
 
 ## Create a new Branch 
 
