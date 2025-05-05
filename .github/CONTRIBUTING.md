@@ -42,13 +42,6 @@ To enforce consistency and code quality, we use Git hooks.
 - `pre-commit`: Runs linting and formating before allowing a commit.  
 - `commit-msg`: Verifies that the commit message adheres to our naming convention.  
 
-To set up hooks locally, run:
-```bash
-npm install
-```
-
-If you encounter issues committing, ensure your `node_modules` are up to date.
-
 ## Create a Pull Request (Needs a revision by Jona & Leon)
 
 Once your changes are complete and pushed to your feature branch:
