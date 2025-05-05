@@ -1,6 +1,6 @@
 ## Description
 
-Please describe the changes made.
+Please describe the changes you made.
 
 ## Motivation and Context
 
