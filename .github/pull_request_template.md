@@ -2,23 +2,12 @@
 
 Please describe the changes you made.
 
-## Motivation and Context
-
-Why is this change necessary? What problems are being solved?
-
-## Changes
-
-- [ ] New feature
-- [ ] Bugfix
-- [ ] Documentation updated
-- [ ] Code optimization
-- [ ] Tests added or adjusted
-
 ## Checklist
 
 - [ ] Code has been tested locally
 - [ ] All existing tests pass
 - [ ] Changes are documented
+- [ ] PR adheres to the [contributing guidelines](.github/contributing.md)
 - [ ] Reviewers have been assigned
 
 ## Additional Notes
