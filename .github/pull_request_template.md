@@ -1,32 +1,26 @@
-## Beschreibung
+## Description
 
-Bitte beschreibe die vorgenommenen Änderungen:
+Please describe the changes made.
 
--
+## Motivation and Context
 
-## Motivation und Kontext
+Why is this change necessary? What problems are being solved?
 
-Warum ist diese Änderung notwendig? Welche Probleme werden gelöst?
+## Changes
 
--
-
-## Änderungen
-
-- [ ] Neue Funktion
+- [ ] New feature
 - [ ] Bugfix
-- [ ] Dokumentation aktualisiert
-- [ ] Code-Optimierung
-- [ ] Tests hinzugefügt oder angepasst
+- [ ] Documentation updated
+- [ ] Code optimization
+- [ ] Tests added or adjusted
 
-## Checkliste
+## Checklist
 
-- [ ] Der Code wurde lokal getestet
-- [ ] Alle bestehenden Tests bestehen
-- [ ] Die Änderungen sind dokumentiert
-- [ ] Reviewer wurden zugewiesen
+- [ ] Code has been tested locally
+- [ ] All existing tests pass
+- [ ] Changes are documented
+- [ ] Reviewers have been assigned
 
-## Weitere Hinweise
+## Additional Notes
 
-Gibt es etwas, das die Reviewer beachten sollten?
-
--
+Is there anything the reviewers should pay attention to?
