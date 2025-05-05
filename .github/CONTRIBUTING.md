@@ -10,7 +10,7 @@ Before starting any development work, create a new feature branch from the `main
 ```
 <feature>/<short-description>
 ```
-
+![GitHub Flow Branching Strategy](GitHubFlow.png)
 **Examples:**
 - `feature/login-page`
 - `feature/database-schema` 
