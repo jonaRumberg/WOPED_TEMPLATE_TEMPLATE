@@ -10,9 +10,13 @@
 
 Please have a look at the [contributing guidelines](.github/CONTRIBUTING.md) before you start development.
 
-# Development
+## Development enviroment
 
 *Here you should provide guide on how to set up a local development enviroment.*
+*These guidelines should include:*
+- Requirements/ How to install dependencies
+- How to run project
+- How to run tests
 
 # License
 
