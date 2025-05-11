@@ -5,10 +5,10 @@ Welcome to our development project for WoPeD! To ensure a smooth and efficient w
 
 ## Create a new Branch 
 
-Before starting any development work, create a new feature branch from the `main` branch. Never develop on the `main` branch itself. The featrue branch name should follow this pattern:
+Before starting any development work, create a new feature branch from the `main` branch. Never develop on the `main` branch itself. The feature branch name should follow this pattern:
 
 ```
-<feature>/<short-description>
+feature/<short-description>
 ```
 ![GitHub Flow Branching Strategy](GitHubFlow.png)
 **Examples:**
