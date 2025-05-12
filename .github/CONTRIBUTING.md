@@ -3,9 +3,21 @@
 
 Welcome to our development project for WoPeD! To ensure a smooth and efficient workflow for everyone involved, we follow a structured development process. Please adhere to the following guidelines when contributing.
 
+## Fork the Repository
+
+please begin by forking the repository to your own GitHub account.
+
+You can follow GitHub's official guide here:  
+👉 [How to fork a repository](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+
+Once forked, clone your forked repository locally and work from there.
+
 ## Create a new Branch 
 
-Before starting any development work, create a new feature branch from the `main` branch. Never develop on the `main` branch itself. The feature branch name should follow this pattern:
+Before starting any development work, create a new feature branch from the `main` branch.  
+🚫 **Do not develop directly on the `main` branch.**
+
+Branch names should follow this pattern:
 
 ```
 feature/<short-description>
@@ -46,6 +58,7 @@ To enforce consistency and code quality, we use Git hooks.
 
 Once your changes are complete and pushed to your feature branch:
 
-1. Open a Pull Request (PR) against the `main` branch.
+1. Open a Pull Request (PR) against the `main` branch of the original repository.
 2. Ensure your PR fulfills all the requirements listed in the PR Template
-5. Once approved, your PR can be merged.
+3. Reviewers will check your code for correctness, style, and completeness.
+4. Once approved, your PR can be merged.
