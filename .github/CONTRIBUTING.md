@@ -29,22 +29,42 @@ feature/<short-description>
 
 ## Commit to the Branch
 
-### Commit Naming Convention (Moritz pls. adapt this chapter)
+### Commit Naming Convention
 
-All commits should follow this convention to maintain clarity and traceability:
+All commits should follow the [conventional commits](https://www.conventionalcommits.org/en/v1.0.0/) specification to maintain clarity and traceability:
 
 ```
-<type>: <concise description>
+<type>(optional scope): <description>
+
+[optional body]
 ```
 
 **Examples:**
-- `feat: implement user login`
-- `fix: correct typo in registration form`
+```
+fix(api): prevent racing of requests
 
-Use the following types:
-- `feat` – A new feature  
-- `fix` – A bug fix  
-... 
+Introduce a request id and a reference to latest request. Dismiss
+incoming responses other than from latest request.
+```
+```
+feat(api)!: send an email to the customer when a product is shipped
+```
+
+**Use the following <types>:**
+- `feat` – new feature  
+- `fix` – bug fix
+- `build` – build system modifications
+- `chore` – maintenance tasks
+- `ci` – CI config changes
+- `docs` – documentation changes
+- `style` – code style/formatting
+- `refactor` – changes due to refactoring
+- `revert` – revert changes
+- `perf` – performance optimizations
+- `test` – tests
+
+A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis.
+Please mark **breaking changes** with an `!` after the type/scope. 
 
 ### Commit Hooks (Moritz pls. adapt this chapter)
 
