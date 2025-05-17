@@ -66,7 +66,7 @@ feat(api)!: send an email to the customer when a product is shipped
 A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis.
 Please mark **breaking changes** with an `!` after the type/scope. 
 
-### Commit Hooks (Moritz pls. adapt this chapter)
+### Commit Hooks (To be adapted in the future)
 
 To enforce consistency and code quality, we use Git hooks.
 
@@ -74,7 +74,7 @@ To enforce consistency and code quality, we use Git hooks.
 - `pre-commit`: Runs linting and formating before allowing a commit.  
 - `commit-msg`: Verifies that the commit message adheres to our naming convention.  
 
-## Create a Pull Request (Needs a revision by Jona & Leon)
+## Create a Pull Request
 
 Once your changes are complete and pushed to your feature branch:
 
