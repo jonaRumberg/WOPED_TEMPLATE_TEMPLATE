@@ -71,8 +71,9 @@ Please mark **breaking changes** with an `!` after the type/scope.
 To enforce consistency and code quality, we use Git hooks.
 
 **Hooks in use:**
-- `pre-commit`: Runs linting and formating before allowing a commit.  
-- `commit-msg`: Verifies that the commit message adheres to our naming convention.  
+- `pre-commit`: Formats the code before allowing a commit.  
+- `commit-msg`: Verifies that the commit message adheres to our naming convention.
+- `post-checkout`: Informs about branch names that violate our branching strategy.
 
 ## Create a Pull Request
 
