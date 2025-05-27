@@ -66,7 +66,7 @@ feat(api)!: send an email to the customer when a product is shipped
 A scope may be provided to a commit’s type, to provide additional contextual information and is contained within parenthesis.
 Please mark **breaking changes** with an `!` after the type/scope. 
 
-### Commit Hooks (To be adapted in the future)
+### Commit Hooks
 
 To enforce consistency and code quality, we use Git hooks.
 
