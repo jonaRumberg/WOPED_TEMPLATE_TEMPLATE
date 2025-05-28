@@ -9,6 +9,7 @@
 # Contributing
 
 Please have a look at the [contributing guidelines](.github/CONTRIBUTING.md) before you start development.
+After cloning this repository, it's essential to [set up git hooks](https://github.com/woped/woped-git-hooks/blob/main/README.md#activating-git-hooks-after-cloning-a-repository) to ensure project standards.
 
 ## Development enviroment
 
